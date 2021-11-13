@@ -1,0 +1,17 @@
+git init
+for to initialize the newly created folders
+git clone
+cloning into particular url created in reporisitory
+git status
+to check the current status as in which branch
+git add 
+it adds the particular repository into created folder
+git commit
+for commiting the msg
+git config --global user.name ".."
+git config --global user.email".."
+the above two commands for to make sure that who are performing the current process
+git push
+this performs pushing of particular content to other files
+git pull
+removes the content from from particular file
